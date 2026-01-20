@@ -234,7 +234,7 @@ body {
 
     <!-- FOOTER -->
     <div class="footer">
-      YouTube Clone • Built with HTML, CSS & JS • January 2026
+      YouTube Clone • Built with HTML, CSS & apteach project • January 2026
     </div>
 
   </div>
